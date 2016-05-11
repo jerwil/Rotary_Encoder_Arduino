@@ -10,6 +10,8 @@ I've always found it inconvenient to try to fit a rotary encoder on a breadboard
 
 ![](https://raw.githubusercontent.com/jerwil/Rotary_Encoder_Arduino/master/Media/Rotary%20Encoder%20Mini%20Board_pcb.png)
 
+![](https://raw.githubusercontent.com/jerwil/Rotary_Encoder_Arduino/a20db75cfaca0f7ad9eaeb3cce93a661d216ef76/Media/Bare%20Board.jpg)
+
 The PCB is pseudo two-layer as the rotary encoder is soldered on the top of the board.
 
 ![](https://raw.githubusercontent.com/jerwil/Rotary_Encoder_Arduino/master/Media/Board%20Top.jpg)
